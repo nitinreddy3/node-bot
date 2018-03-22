@@ -1,0 +1,28 @@
+{
+  "name": "node-bot",
+  "version": "1.0.0",
+  "description": "node bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/node-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ms",
+    "bots"
+  ],
+  "author": "reddynitin3@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinreddy3/node-bot/issues"
+  },
+  "homepage": "https://github.com/nitinreddy3/node-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "restify": "^7.0.0"
+  }
+}
